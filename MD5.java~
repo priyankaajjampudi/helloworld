@@ -1,0 +1,9 @@
+import java.security.*;
+
+public class MD5{
+	public static void main(String[] a){
+		try{
+			
+		}
+	}
+}
